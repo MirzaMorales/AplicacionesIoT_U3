@@ -4,7 +4,7 @@
 
 # Integrantes de Proyecto
 
-Mendoza Amaro Brandon Gustavo
-Morales Lezama Mirza Natzielly
-Ramirez Ramirez Lizett
+Mendoza Amaro Brandon Gustavo \n
+Morales Lezama Mirza Natzielly\n
+Ramirez Ramirez Lizett\n
 
