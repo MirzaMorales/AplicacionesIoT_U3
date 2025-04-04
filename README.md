@@ -3,8 +3,13 @@
 # Descripción del proyecto
 
 # Integrantes de Proyecto
+Mendoza Amaro Brandon Gustavo 
 
-Mendoza Amaro Brandon Gustavo \n
-Morales Lezama Mirza Natzielly\n
-Ramirez Ramirez Lizett\n
+Morales Lezama Mirza Natzielly
+
+Ramirez Ramirez Lizett
+
+# Imagenes del proyecto
+
+# Actividades de Clase
 
